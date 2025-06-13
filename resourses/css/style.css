@@ -17,12 +17,15 @@ body {
 .header-sub-header {
     color: grey;
     font-size: 21px;
-    
-
-
 }
+    
     /* Links */
 .link-cta {
    font-size: 16px;
    color: aquamarine;
+}
+.footer-copyright {
+    color: grey;
+    text-align: right;
+    font-size: 21px;
 }
